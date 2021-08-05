@@ -12,7 +12,8 @@ citation: Test-2 dataset (2021). (Version draft) [Data set]. DANDI archive. http
 description: Test-2 description
 id: DANDI:000033/draft
 identifier: DANDI:000033
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000033/versions/draft/assets/
 name: Test-2 dataset
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
